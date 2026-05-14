@@ -1,5 +1,5 @@
-# MineVibe Legal
+# MineVibe
 
-- [Privacy Policy](privacy-policy.md)
-- [Terms of Use](terms-of-use.md)
-
+- [Privacy Policy](privacy/)
+- [Terms of Use](terms/)
+- [Support](support/)
