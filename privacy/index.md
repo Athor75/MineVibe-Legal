@@ -8,9 +8,9 @@ This policy is intended for the iOS version of MineVibe.
 
 ## Contact
 
-Developer: [Developer/Company Legal Name]
+Developer: Anthony
 
-Email: [support email address]
+Email: minevibesupport@gmail.com
 
 ## Summary
 
@@ -121,4 +121,4 @@ We may update this Privacy Policy from time to time. If we make material changes
 
 If you have questions about this Privacy Policy, contact us at:
 
-[support email address]
+minevibesupport@gmail.com
