@@ -9,9 +9,9 @@ If you do not agree to these Terms, do not use MineVibe.
 
 ## Contact
 
-Developer: [Developer/Company Legal Name]
+Developer: Anthony
 
-Email: [support email address]
+Email: minevibesupport@gmail.com
 
 ## Eligibility
 
@@ -59,7 +59,7 @@ Some features may require an internet connection, Apple services, RevenueCat, Go
 
 Your use of MineVibe is also governed by our Privacy Policy:
 
-[Privacy Policy URL]
+[[Privacy Policy URL]](https://athor75.github.io/MineVibe-Legal/privacy/)
 
 ## Ownership
 
@@ -91,10 +91,6 @@ You may stop using MineVibe at any time. We may suspend or terminate your access
 
 Sections that by their nature should survive termination will survive, including ownership, disclaimer, limitation of liability, and governing law.
 
-## Governing Law
-
-These Terms are governed by the laws of [State/Country], without regard to conflict of law rules, except where local law requires otherwise.
-
 ## Apple App Store Terms
 
 These Terms are between you and us, not Apple. Apple is not responsible for MineVibe or its content. Apple and Apple's subsidiaries are third-party beneficiaries of these Terms as they relate to your license to use MineVibe, and Apple may enforce these Terms against you.
@@ -109,4 +105,4 @@ We may update these Terms from time to time. If we make material changes, we wil
 
 If you have questions about these Terms, contact us at:
 
-[support email address]
+minevibesupport@gmail.com
